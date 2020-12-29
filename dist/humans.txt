@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter> -- <tumblr> -- <deviantart> -- <furaffinity>
+    <name> -- <role> -- <twitter>
 
 # THANKS
 
